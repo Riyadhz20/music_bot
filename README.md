@@ -1,6 +1,6 @@
 # Music bot
 Credit to [Pawel Bes](https://github.com/pawel02)
-Code Edited By [Riyadh Alzahrani](https://github.com/RiyadhAlzahrani)
+Code Edited By [me](https://github.com/Riyadhz20)
 
 Since a lot of discord music bots are being blocked by youtube nowadays I've decided to write up a quick project that will allow anyone to host their own discord bot. This bot includes the following commands:
 
